@@ -1,1 +1,1 @@
-# dindzWPTheme
+# Dindz Wordpress Theme
